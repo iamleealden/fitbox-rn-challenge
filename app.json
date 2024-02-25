@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "fitbox-rn-challenge",
+    "slug": "fitbox-rn-challenge",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "fitbox-rn-challenge"
+}
